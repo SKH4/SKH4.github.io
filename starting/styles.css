@@ -1,0 +1,146 @@
+
+.colorboxes li {
+    display: inline;
+    border: 1px solid black;
+    margin: 5%;
+    padding:5%
+    
+}
+h1 {
+    padding: 20px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: "Oxygen";
+}
+
+h2 {
+    padding: 10px;
+    text-align: justify;
+    font-size: 30px;
+    font-family: Oxygen;
+    font-weight: 400px;
+}
+
+.colors {
+    display: inline;
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+#pink {
+    background-color: #F8C8DC;
+}
+
+#Beige {
+    background-color: #f5f5dc;
+}
+
+#Green {
+    background-color: #006400;
+    color: white;
+}
+
+.colorboxes {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.fonts h2 {
+    padding-top: 120px;
+}
+
+.font-panel {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-inline-start: 18%;
+}
+
+.font-label-oxygen {
+    font-family: Oxygen;
+    font-weight: 400;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.oxygen-light {
+    font-family: Oxygen;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.oxygen-regular {
+    font-family: Oxygen;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.oxygen-bold {
+    font-family: Oxygen;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.font-label-Tweb {
+    font-family: "Titillium Web";
+    font-weight: 400;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.Tweb-light {
+    font-family: "Titillium Web";
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.Tweb-regular {
+    font-family: "Titillium Web";
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.Tweb-bold {
+    font-family: "Titillium Web";
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.h1-label {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Oxygen;
+    padding-bottom: 0%;
+}
+
+.h2-label {
+   font-size: 30px;
+   font-weight: 400;
+   font-family: Oxygen;
+   padding-bottom: 0%;
+}
+
+.p-label {
+    font-size: 20px;
+    font-weight: 400px;
+    font-family: 'Titillium Web';
+}
+
+.style-panel li {
+    font-size: 20px;
+    font-weight: 400px;
+    font-family: 'Titillium Web';
+}
+
+body {
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+
+}
